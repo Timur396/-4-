@@ -63,7 +63,6 @@ public class Main {
 
         //Задача1.3
         System.out.println("Задача1.3");
-
         int humonYear = 30;
         if (humonYear >= 2 && humonYear <= 6) {
             System.out.println(" Если возраст человека равен " + humonYear + " то ему нужно ходить в детский сад");
@@ -103,4 +102,4 @@ public class Main {
             System.out.println(" Большее число " + free);
         }
     }
-    }
+}
